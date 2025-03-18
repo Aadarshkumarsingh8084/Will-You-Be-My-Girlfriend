@@ -1,0 +1,74 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(to right, #ff758c, #ff7eb3);
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+
+.container {
+    background: white;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 0 0 20px rgba(255, 0, 0, 0.5);
+}
+
+
+.photo-container {
+    margin: 20px 0;
+}
+
+.glowing-photo {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    box-shadow: 0 0 20px pink;
+    animation: glow 1.5s infinite alternate;
+}
+
+@keyframes glow {
+    from {
+        box-shadow: 0 0 20px pink;
+    }
+    to {
+        box-shadow: 0 0 40px red;
+    }
+}
+
+
+.buttons {
+    margin-top: 20px;
+}
+
+button {
+    font-size: 18px;
+    padding: 10px 20px;
+    margin: 10px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.yes-button {
+    background: #ff4081;
+    color: white;
+}
+
+.yes-button:hover {
+    background: #ff1a66;
+}
+
+
+.no-button {
+    background: #333;
+    color: white;
+    position: absolute;
+}
+
+.no-button:hover {
+    background: #000;
+}
