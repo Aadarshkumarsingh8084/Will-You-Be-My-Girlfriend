@@ -5,7 +5,7 @@ using HTML CSS and JAVASCRIPT
 <h3>❤️ Introduction</h3>
 <p>"Will You Be My Girlfriend?" is a fun and interactive web project designed to creatively pop the big question. This project uses HTML, CSS, and JavaScript to create an engaging experience that combines charming visuals with personalized messages.</p>
   
-![image alt](https://github.com/Aadarshkumarsingh8084/CSS-files/blob/main/Screenshot%202025-03-18%20134529.png?raw=true)
+![image alt](https://github.com/Aadarshkumarsingh8084/Will-You-Be-My-Girlfriend/blob/8d1eda168c9311956b7bb7419331705eddffe9ed/your-photo.jpg)
 
 
 <h3>🎯 Features</h3>
