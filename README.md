@@ -1,4 +1,4 @@
-Mini project
+Mini Project
 using HTML CSS And JAVASCRIPT
 
 <h1>Will You Be My Girlfriend?<h1>
