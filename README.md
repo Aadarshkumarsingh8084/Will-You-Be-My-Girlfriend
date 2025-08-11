@@ -1,5 +1,5 @@
 Mini Project
-Using HTML CSS And JAVA
+Using HTML CSS And JAVASCRIPT
 
 <h1>Will You Be My Girlfriend?<h1>
 <h3>❤️ Introduction</h3>
