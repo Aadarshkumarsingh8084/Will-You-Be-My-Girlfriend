@@ -9,6 +9,7 @@ Using HTML CSS And JAVASCRIPT
 
 
 <h3>🎯 Features</h3>
+
 <p>💬 Interactive yes/no buttons</p>
 <p>🥰 Cute animations and visuals</p>
 <p>😂 Playful rejection responses</p>
@@ -16,11 +17,13 @@ Using HTML CSS And JAVASCRIPT
 <p>🌈 Fully responsive design</p>
 
 <h3>🚀 Technologies Used</h3>
+
 <p>HTML – For structure</p>
 <p>>CSS – For styling and animations</p>
 <p>JavaScript – For dynamic interactions</p>
 
 <h3>📋 How to Run</h3>
+
 <p>1.Clone the repository:</p>
 <p>2.Navigate to the project folder</p>
 <p>3.Open index.html in your browser.</p>
