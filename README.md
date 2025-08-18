@@ -1,7 +1,7 @@
 Mini Project
 Using HTML CSS And JAVASCRIPT
 
-<h1>Will You Be My Girlfriend?
+<h1>Will You Be My Girlfriend?<h1>
 <h3>❤️ Introduction</h3>
 <p>"Will You Be My Girlfriend?" is a fun and interactive web project designed to creatively pop the big question. This project uses HTML, CSS, and JavaScript to create an engaging experience that combines charming visuals with personalized messages.</p>
   
