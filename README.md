@@ -37,4 +37,4 @@ Using HTML CSS And JAVASCRIPT
 <p>This project is inspired by the creative ways people express their feelings using technology. Whether it's for fun or a genuine proposal, this project aims to make your moment memorable.</p>
 
 <h3>📬 Feedback</h3>
-<p>If you have suggestions or improvements, feel free to open an issue or submit a pull request </p
+<p>If you have suggestions or improvements, feel free to open an issue or submit a pull request </
