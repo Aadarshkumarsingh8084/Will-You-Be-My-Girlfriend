@@ -31,7 +31,7 @@ Using HTML CSS And JAVASCRIPT
 <h3>🛠️ Customization</h3>
 <p>To change the text, update the content in index.html.</p>
 <p>Modify the color scheme and animations in styles.css.</p>
-<p>Add custom responses or interactions in script.js</p>
+<p>Add custom responses or interactions in script.js</p
 
 <h3>💡 Inspiration</h3>
 <p>This project is inspired by the creative ways people express their feelings using technology. Whether it's for fun or a genuine proposal, this project aims to make your moment memorable.</p>
